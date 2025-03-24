@@ -1,37 +1,16 @@
 <template>
-  <swiper-container
-    :slides-per-view="3"
-    :space-between="spaceBetween"
-    :centered-slides="true"
-    :pagination="{
-      hideOnClick: true,
-    }"
-    :breakpoints="{
-      768: {
-        slidesPerView: 3,
-      },
-    }"
-    @swiperprogress="onProgress"
-    @swiperslidechange="onSlideChange"
-  >
-    <swiper-slide>Slide 1</swiper-slide>
-    <swiper-slide>Slide 2</swiper-slide>
-    <swiper-slide>Slide 3</swiper-slide>
-  </swiper-container>
+  <main>
+    <h1>
+      {{ $t("hero.h1") }}
+    </h1>
+
+    <button @click="setLocale('en')">English</button>
+    <button @click="setLocale('es')">Spanish</button>
+  </main>
 </template>
 
 <script lang="ts" setup>
-import { register } from "swiper/element/bundle";
+import { useI18n } from "vue-i18n";
 
-register();
-
-const spaceBetween = 10;
-const onProgress = e => {
-  const [swiper, progress] = e.detail;
-  console.log(progress);
-};
-
-const onSlideChange = e => {
-  console.log("slide changed");
-};
+const { setLocale } = useI18n();
 </script>

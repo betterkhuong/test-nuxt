@@ -8,6 +8,7 @@ export default defineNuxtConfig({
     "@nuxt/ui",
     "@nuxt/eslint",
     "@nuxt/content",
+    "@nuxtjs/i18n",
   ],
   image: {
     quality: 70,
@@ -48,5 +49,25 @@ export default defineNuxtConfig({
     },
     locales: ["en", "es"],
     defaultLocale: "en",
+  },
+  i18n: {
+    lazy: true,
+    locales: [
+      {
+        code: "en",
+        language: "en-US",
+        name: "English",
+        files: ["en/home.json"],
+      },
+      {
+        code: "es",
+        language: "es-ES",
+        name: "Spanish",
+        files: ["es/home.json"],
+      },
+    ],
+    defaultLocale: "en",
+    strategy: "prefix_except_default",
+    langDir: "./content/locales",
   },
 });
