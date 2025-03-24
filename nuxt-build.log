@@ -1,0 +1,559 @@
+
+> build
+> nuxt build
+
+[nuxi] Nuxt 3.15.2 with Nitro 2.10.4
+[nuxi] ℹ Building for Nitro preset: vercel
+ℹ Building client...
+ℹ vite v6.0.7 building for production...
+ℹ transforming...
+ℹ ✓ 465 modules transformed.
+DEBUG: 1
+DEBUG: 2
+DEBUG: 3
+DEBUG: 4
+DEBUG: 5
+DEBUG: 6
+DEBUG: 7
+DEBUG: 8
+DEBUG: 9
+DEBUG: 10
+DEBUG: 11
+DEBUG: 12
+DEBUG: 13
+DEBUG: 14
+DEBUG: 15
+DEBUG: 16
+DEBUG: 17
+DEBUG: 18
+DEBUG: 19
+DEBUG: 20
+DEBUG: 21
+DEBUG: 22
+DEBUG: 23
+DEBUG: 24
+DEBUG: 25
+DEBUG: 26
+DEBUG: 27
+DEBUG: 28
+DEBUG: 29
+DEBUG: 30
+DEBUG: 31
+DEBUG: 32
+DEBUG: 33
+DEBUG: 34
+DEBUG: 35
+DEBUG: 36
+DEBUG: 37
+DEBUG: 38
+DEBUG: 39
+DEBUG: 40
+DEBUG: 41
+DEBUG: 42
+DEBUG: 43
+DEBUG: 44
+DEBUG: 45
+DEBUG: 46
+DEBUG: 47
+DEBUG: 48
+DEBUG: 49
+DEBUG: 50
+DEBUG: 51
+DEBUG: 52
+DEBUG: 53
+DEBUG: 54
+DEBUG: 55
+DEBUG: 56
+DEBUG: 57
+DEBUG: 58
+DEBUG: 59
+DEBUG: 60
+DEBUG: 61
+DEBUG: 62
+DEBUG: 63
+DEBUG: 64
+DEBUG: 65
+DEBUG: 66
+DEBUG: 67
+DEBUG: 68
+DEBUG: 69
+DEBUG: 70
+DEBUG: 71
+DEBUG: 72
+DEBUG: 73
+DEBUG: 74
+DEBUG: 75
+DEBUG: 76
+DEBUG: 77
+DEBUG: 78
+DEBUG: 79
+DEBUG: 80
+DEBUG: 81
+DEBUG: 82
+DEBUG: 83
+DEBUG: 84
+DEBUG: 85
+DEBUG: 86
+DEBUG: 87
+DEBUG: 88
+DEBUG: 89
+DEBUG: 90
+DEBUG: 91
+DEBUG: 92
+DEBUG: 93
+DEBUG: 94
+DEBUG: 95
+DEBUG: 96
+DEBUG: 97
+DEBUG: 98
+DEBUG: 99
+DEBUG: 100
+DEBUG: 101
+DEBUG: 102
+DEBUG: 103
+DEBUG: 104
+DEBUG: 105
+DEBUG: 106
+DEBUG: 107
+DEBUG: 108
+DEBUG: 109
+DEBUG: 110
+DEBUG: 111
+DEBUG: 112
+DEBUG: 113
+DEBUG: 114
+DEBUG: 115
+DEBUG: 116
+DEBUG: 117
+DEBUG: 118
+DEBUG: 119
+DEBUG: 120
+DEBUG: 121
+DEBUG: 122
+DEBUG: 123
+DEBUG: 124
+DEBUG: 125
+DEBUG: 126
+DEBUG: 127
+DEBUG: 128
+DEBUG: 129
+DEBUG: 130
+DEBUG: 131
+DEBUG: 132
+DEBUG: 133
+DEBUG: 134
+DEBUG: 135
+DEBUG: 136
+DEBUG: 137
+DEBUG: 138
+DEBUG: 139
+DEBUG: 140
+DEBUG: 141
+DEBUG: 142
+DEBUG: 143
+DEBUG: 144
+DEBUG: 145
+DEBUG: 146
+DEBUG: 147
+DEBUG: 148
+DEBUG: 149
+DEBUG: 150
+DEBUG: 151
+DEBUG: 152
+DEBUG: 153
+DEBUG: 154
+DEBUG: 155
+DEBUG: 156
+DEBUG: 157
+DEBUG: 158
+DEBUG: 159
+DEBUG: 160
+DEBUG: 161
+DEBUG: 162
+DEBUG: 163
+DEBUG: 164
+DEBUG: 165
+DEBUG: 166
+DEBUG: 167
+DEBUG: 168
+DEBUG: 169
+DEBUG: 170
+DEBUG: 171
+DEBUG: 172
+DEBUG: 173
+DEBUG: 174
+DEBUG: 175
+DEBUG: 176
+DEBUG: 177
+DEBUG: 178
+DEBUG: 179
+DEBUG: 180
+DEBUG: 181
+DEBUG: 182
+DEBUG: 183
+DEBUG: 184
+DEBUG: 185
+DEBUG: 186
+DEBUG: 187
+DEBUG: 188
+DEBUG: 189
+DEBUG: 190
+DEBUG: 191
+DEBUG: 192
+DEBUG: 193
+DEBUG: 194
+DEBUG: 195
+DEBUG: 196
+DEBUG: 197
+DEBUG: 198
+DEBUG: 199
+DEBUG: 200
+DEBUG: 201
+DEBUG: 202
+DEBUG: 203
+DEBUG: 204
+DEBUG: 205
+DEBUG: 206
+DEBUG: 207
+DEBUG: 208
+DEBUG: 209
+DEBUG: 210
+DEBUG: 211
+DEBUG: 212
+DEBUG: 213
+DEBUG: 214
+DEBUG: 215
+DEBUG: 216
+DEBUG: 217
+DEBUG: 218
+DEBUG: 219
+DEBUG: 220
+DEBUG: 221
+DEBUG: 222
+DEBUG: 223
+DEBUG: 224
+DEBUG: 225
+DEBUG: 226
+DEBUG: 227
+DEBUG: 228
+DEBUG: 229
+DEBUG: 230
+DEBUG: 231
+DEBUG: 232
+DEBUG: 233
+DEBUG: 234
+DEBUG: 235
+DEBUG: 236
+DEBUG: 237
+DEBUG: 238
+DEBUG: 239
+DEBUG: 240
+DEBUG: 241
+DEBUG: 242
+DEBUG: 243
+DEBUG: 244
+DEBUG: 245
+DEBUG: 246
+DEBUG: 247
+DEBUG: 248
+DEBUG: 249
+DEBUG: 250
+DEBUG: 251
+DEBUG: 252
+DEBUG: 253
+DEBUG: 254
+DEBUG: 255
+DEBUG: 256
+DEBUG: 257
+DEBUG: 258
+DEBUG: 259
+DEBUG: 260
+DEBUG: 261
+DEBUG: 262
+DEBUG: 263
+DEBUG: 264
+DEBUG: 265
+DEBUG: 266
+DEBUG: 267
+DEBUG: 268
+DEBUG: 269
+DEBUG: 270
+DEBUG: 271
+DEBUG: 272
+DEBUG: 273
+DEBUG: 274
+DEBUG: 275
+DEBUG: 276
+DEBUG: 277
+DEBUG: 278
+DEBUG: 279
+DEBUG: 280
+DEBUG: 281
+DEBUG: 282
+DEBUG: 283
+DEBUG: 284
+DEBUG: 285
+DEBUG: 286
+DEBUG: 287
+DEBUG: 288
+DEBUG: 289
+DEBUG: 290
+DEBUG: 291
+DEBUG: 292
+DEBUG: 293
+DEBUG: 294
+DEBUG: 295
+DEBUG: 296
+DEBUG: 297
+DEBUG: 298
+DEBUG: 299
+DEBUG: 300
+DEBUG: 301
+DEBUG: 302
+DEBUG: 303
+DEBUG: 304
+DEBUG: 305
+DEBUG: 306
+DEBUG: 307
+DEBUG: 308
+DEBUG: 309
+DEBUG: 310
+DEBUG: 311
+DEBUG: 312
+DEBUG: 313
+DEBUG: 314
+DEBUG: 315
+DEBUG: 316
+DEBUG: 317
+DEBUG: 318
+DEBUG: 319
+DEBUG: 320
+DEBUG: 321
+DEBUG: 322
+DEBUG: 323
+DEBUG: 324
+DEBUG: 325
+DEBUG: 326
+DEBUG: 327
+DEBUG: 328
+DEBUG: 329
+DEBUG: 330
+DEBUG: 331
+DEBUG: 332
+DEBUG: 333
+DEBUG: 334
+DEBUG: 335
+DEBUG: 336
+DEBUG: 337
+DEBUG: 338
+DEBUG: 339
+DEBUG: 340
+DEBUG: 341
+DEBUG: 342
+DEBUG: 343
+DEBUG: 344
+DEBUG: 345
+DEBUG: 346
+DEBUG: 347
+DEBUG: 348
+DEBUG: 349
+DEBUG: 350
+DEBUG: 351
+DEBUG: 352
+DEBUG: 353
+DEBUG: 354
+DEBUG: 355
+DEBUG: 356
+DEBUG: 357
+DEBUG: 358
+DEBUG: 359
+DEBUG: 360
+DEBUG: 361
+DEBUG: 362
+DEBUG: 363
+DEBUG: 364
+DEBUG: 365
+DEBUG: 366
+DEBUG: 367
+DEBUG: 368
+DEBUG: 369
+DEBUG: 370
+DEBUG: 371
+DEBUG: 372
+DEBUG: 373
+DEBUG: 374
+DEBUG: 375
+DEBUG: 376
+DEBUG: 377
+DEBUG: 378
+DEBUG: 379
+DEBUG: 380
+DEBUG: 381
+DEBUG: 382
+DEBUG: 383
+DEBUG: 384
+DEBUG: 385
+DEBUG: 386
+DEBUG: 387
+DEBUG: 388
+DEBUG: 389
+DEBUG: 390
+DEBUG: 391
+DEBUG: 392
+DEBUG: 393
+DEBUG: 394
+DEBUG: 395
+DEBUG: 396
+DEBUG: 397
+DEBUG: 398
+DEBUG: 399
+DEBUG: 400
+DEBUG: 401
+DEBUG: 402
+DEBUG: 403
+DEBUG: 404
+DEBUG: 405
+DEBUG: 406
+DEBUG: 407
+DEBUG: 408
+DEBUG: 409
+DEBUG: 410
+DEBUG: 411
+DEBUG: 412
+DEBUG: 413
+DEBUG: 414
+DEBUG: 415
+DEBUG: 416
+DEBUG: 417
+DEBUG: 418
+DEBUG: 419
+DEBUG: 420
+DEBUG: 421
+DEBUG: 422
+DEBUG: 423
+DEBUG: 424
+DEBUG: 425
+DEBUG: 426
+DEBUG: 427
+DEBUG: 428
+DEBUG: 429
+DEBUG: 430
+DEBUG: 431
+DEBUG: 432
+DEBUG: 433
+DEBUG: 434
+DEBUG: 435
+ℹ rendering chunks...
+ℹ computing gzip size...
+ℹ .nuxt/dist/client/manifest.json                  0.83 kB │ gzip:  0.29 kB
+ℹ .nuxt/dist/client/_nuxt/entry.Db0tNhG_.css       7.56 kB │ gzip:  1.58 kB
+ℹ .nuxt/dist/client/chunks/date-fns-6JDsbhg_.js    0.33 kB │ gzip:  0.23 kB
+ℹ .nuxt/dist/client/chunks/index-Kx43FEx2.js       0.33 kB │ gzip:  0.27 kB
+ℹ .nuxt/dist/client/chunks/lodash-DjxWLlCR.js     71.93 kB │ gzip: 26.70 kB
+ℹ .nuxt/dist/client/_nuxt/Bh1SIM1R.js            171.22 kB │ gzip: 63.47 kB
+ℹ ✓ built in 2.90s
+✔ Client built in 2915ms
+ℹ Building server...
+ℹ vite v6.0.7 building SSR bundle for production...
+ℹ transforming...
+ℹ ✓ 70 modules transformed.
+DEBUG: 436
+DEBUG: 437
+DEBUG: 438
+DEBUG: 439
+DEBUG: 440
+DEBUG: 441
+DEBUG: 442
+DEBUG: 443
+DEBUG: 444
+DEBUG: 445
+DEBUG: 446
+DEBUG: 447
+DEBUG: 448
+DEBUG: 449
+DEBUG: 450
+DEBUG: 451
+DEBUG: 452
+DEBUG: 453
+DEBUG: 454
+DEBUG: 455
+DEBUG: 456
+DEBUG: 457
+DEBUG: 458
+DEBUG: 459
+DEBUG: 460
+DEBUG: 461
+DEBUG: 462
+DEBUG: 463
+DEBUG: 464
+DEBUG: 465
+DEBUG: 466
+DEBUG: 467
+DEBUG: 468
+DEBUG: 469
+DEBUG: 470
+DEBUG: 471
+DEBUG: 472
+DEBUG: 473
+DEBUG: 474
+DEBUG: 475
+DEBUG: 476
+DEBUG: 477
+DEBUG: 478
+DEBUG: 479
+DEBUG: 480
+DEBUG: 481
+DEBUG: 482
+DEBUG: 483
+ℹ rendering chunks...
+ℹ .nuxt/dist/server/_nuxt/error-dev-styles.DeAxODsO.mjs     0.09 kB
+ℹ .nuxt/dist/server/_nuxt/error-500-styles.qjCvlYgm.mjs     0.09 kB
+ℹ .nuxt/dist/server/_nuxt/error-404-styles.BVUocJw-.mjs     0.09 kB
+ℹ .nuxt/dist/server/_nuxt/error-dev-styles.rtAR-95y.mjs     0.17 kB
+ℹ .nuxt/dist/server/_nuxt/error-500-styles.B2TJysG1.mjs     0.17 kB
+ℹ .nuxt/dist/server/_nuxt/error-404-styles.GltdgJKE.mjs     0.17 kB
+ℹ .nuxt/dist/server/_nuxt/entry-styles.C8o6Q35b.mjs         0.24 kB
+ℹ .nuxt/dist/server/styles.mjs                              1.12 kB
+ℹ .nuxt/dist/server/chunks/entry-styles-1.mjs-DTbD7_aJ.js   0.37 kB │ map:   0.13 kB
+ℹ .nuxt/dist/server/chunks/entry-styles-2.mjs-sI26azPv.js   0.37 kB │ map:   0.13 kB
+ℹ .nuxt/dist/server/chunks/entry-styles-3.mjs-BX0BN_KJ.js   0.37 kB │ map:   0.13 kB
+ℹ .nuxt/dist/server/chunks/index-2QP-NE56.js                1.24 kB │ map:   0.41 kB
+ℹ .nuxt/dist/server/server.mjs                             79.42 kB │ map: 188.60 kB
+ℹ ✓ built in 555ms
+✔ Server built in 561ms
+[nitro] ✔ Generated public .vercel/output/static
+[nitro] ℹ Building Nuxt Nitro server (preset: vercel, compatibility date: 2024-11-01)
+[nitro] ✔ Nuxt Nitro server built
+  ├─ .vercel/output/functions/__nitro.func/chunks/_/error-500.mjs (4.77 kB) (2.02 kB gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/_/error-500.mjs.map (196 B) (158 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/client.manifest.mjs (1.44 kB) (415 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/client.manifest.mjs.map (1.38 kB) (387 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/entry-styles.C8o6Q35b.mjs (848 B) (334 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/entry-styles.C8o6Q35b.mjs.map (272 B) (179 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-404-styles.BVUocJw-.mjs (616 B) (296 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-404-styles.BVUocJw-.mjs.map (236 B) (167 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-404-styles.GltdgJKE.mjs (674 B) (299 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-404-styles.GltdgJKE.mjs.map (258 B) (178 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-500-styles.B2TJysG1.mjs (674 B) (302 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-500-styles.B2TJysG1.mjs.map (258 B) (179 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-500-styles.qjCvlYgm.mjs (616 B) (297 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-500-styles.qjCvlYgm.mjs.map (236 B) (164 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-dev-styles.DeAxODsO.mjs (616 B) (292 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-dev-styles.DeAxODsO.mjs.map (236 B) (163 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-dev-styles.rtAR-95y.mjs (672 B) (300 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/error-dev-styles.rtAR-95y.mjs.map (258 B) (177 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/index-2QP-NE56.mjs (1.3 kB) (605 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/index-2QP-NE56.mjs.map (203 B) (149 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/server.mjs (78.6 kB) (19.5 kB gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/server.mjs.map (3.61 kB) (744 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/styles.mjs (1.15 kB) (378 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/build/styles.mjs.map (705 B) (228 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/nitro/nitro.mjs (158 kB) (38.1 kB gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/nitro/nitro.mjs.map (3.19 kB) (724 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/routes/renderer.mjs (13.5 kB) (4.34 kB gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/routes/renderer.mjs.map (377 B) (214 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/virtual/_virtual_spa-template.mjs (94 B) (100 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/chunks/virtual/_virtual_spa-template.mjs.map (112 B) (111 B gzip)
+  ├─ .vercel/output/functions/__nitro.func/index.mjs (268 B) (183 B gzip)
+  └─ .vercel/output/functions/__nitro.func/package.json (706 B) (347 B gzip)
+Σ Total size: 2.44 MB (561 kB gzip)
