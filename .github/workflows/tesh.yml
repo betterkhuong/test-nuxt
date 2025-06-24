@@ -1,0 +1,29 @@
+name: Notify Slack on Push to Main
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  SLACK_NOTIFICATIONS_CHANNEL: bp-ci-cd
+
+jobs:
+  check_commit_message:
+    runs-on: ubuntu-latest
+    outputs:
+      skip_ci: ${{ steps.check_message.outputs.skip_ci }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Prepare commit message
+        run: |
+          COMMIT_AUTHOR=$(git log -1 --pretty="%an")
+          echo "COMMIT_AUTHOR=${COMMIT_AUTHOR}" >> $GITHUB_ENV
+          echo "SHORT_SHA=$(echo ${{ env.GITHUB_SHA }} | cut -c1-7)" >> $GITHUB_ENV
+          echo "SHA_URL=${{ github.server_url }}/${{ github.repository }}/commit/${GITHUB_SHA}" >> $GITHUB_ENV
+          latest_commit_message="$(echo "${{ github.event.head_commit.message }}" | head -n 1)"
+          echo "COMMIT_MESSAGE=$latest_commit_message" >> $GITHUB_ENV
+
+          echo 'finish'

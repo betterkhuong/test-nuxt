@@ -1,0 +1,17 @@
+name: Notify Slack on Push to Main
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  SLACK_NOTIFICATIONS_CHANNEL: bp-ci-cd
+
+jobs:
+  check_commit_message:
+    runs-on: ubuntu-latest
+    outputs:
+      skip_ci: ${{ steps.check_message.outputs.skip_ci }}
+    steps:
+      - run: echo 'something'

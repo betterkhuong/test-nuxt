@@ -9,7 +9,11 @@ export default defineNuxtConfig({
     "@nuxt/eslint",
     "@nuxt/content",
     "@nuxtjs/i18n",
+    "@nuxtjs/supabase",
   ],
+  supabase: {
+    redirect: false,
+  },
   image: {
     quality: 70,
     format: ["webp"],
