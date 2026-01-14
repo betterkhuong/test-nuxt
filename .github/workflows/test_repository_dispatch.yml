@@ -1,0 +1,12 @@
+name: E2E
+
+on:
+  repository_dispatch:
+    types: [e2e_frontend, e2e_backend]
+  workflow_dispatch:
+
+jobs:
+  reset-database:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "test"
